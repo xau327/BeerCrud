@@ -1,3 +1,4 @@
+//modulo de rotas
 module.exports = function(router,Beer){
 
 	router.route('/beers')
