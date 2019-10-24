@@ -2,7 +2,7 @@
 
 
 1. Faça o clone do repositório:
-	* ``` git clone git@github.com:caionitro/BeerCrud.git ```
+	* ``` git clone git@github.com:lucasV327/BeerCrud.git ```
 
 2. Após o clone, vamos instalar as biliotecas NPM (Node package Module):
 	* ``` npm install ```
