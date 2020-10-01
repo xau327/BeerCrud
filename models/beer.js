@@ -9,5 +9,5 @@ var BeerSchema = new Schema({
 	valor : Number
 });
 
-
+//documenting exports
 module.exports = mongoose.model('Beer', BeerSchema);
